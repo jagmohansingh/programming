@@ -1,3 +1,3 @@
 programming
 ===========
-programming for fun!
+for fun!
